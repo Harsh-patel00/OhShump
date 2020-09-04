@@ -11,4 +11,4 @@ This is a 2D game made in Unity, under the Guidance of Dr. Tim "Dr. T" Chamillar
 
   - **Move Up/Down** : *Up/Down*
   - **Single Shoot** : *Left Mouse Button (Press)*  
-  - **Continuous Shoot** : *Left Mouse Button (Hold)*
+  - **Continuous Shoot** : *Right Mouse Button (Hold)*
